@@ -16,7 +16,7 @@ func main() {
 	texto = "Tipo Texto"
 	numFlutuante = 10.2
 
-	local := "Variável escopo local"
+	local := "Variável escopo local" // escopo local
 
 	println(exist)
 	println(num)
