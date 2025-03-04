@@ -1,0 +1,3 @@
+ cep: 03757-000
+ Localidade: São Paulo
+ uf: SP
